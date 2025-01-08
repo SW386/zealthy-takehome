@@ -1,0 +1,10 @@
+./backend/dist/
+./backend/instance/
+./backend/__pycache__/
+./backend/venv/
+./backend/.gitignore
+./frontend/dist/
+./frontend/node_modules/
+./frontend/.gitignore
+./frontend/.env
+.DS_Store
